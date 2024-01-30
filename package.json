@@ -54,7 +54,7 @@
         "@nomicfoundation/hardhat-toolbox": "^4.0.0",
         "@openzeppelin/contracts": "^3.4.0",
         "@safe-global/mock-contract": "^4.0.0",
-        "@safe-global/safe-singleton-factory": "^1.0.16",
+        "@safe-global/safe-singleton-factory": "^1.0.18",
         "@types/chai": "^4.3.11",
         "@types/mocha": "^10.0.6",
         "@types/node": "^20.9.4",

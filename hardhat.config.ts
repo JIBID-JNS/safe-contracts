@@ -115,6 +115,10 @@ const userConfig: HardhatUserConfig = {
             ...sharedNetworkConfig,
             url: `https://api.avax.network/ext/bc/C/rpc`,
         },
+        jibchain: {
+            ...sharedNetworkConfig,
+            url: `https://rpc-l1.jibchain.net`,
+        },
     },
     deterministicDeployment,
     namedAccounts: {
